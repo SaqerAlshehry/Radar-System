@@ -1,6 +1,6 @@
 # 🛰️ Radar System – ESP32-S3 Application
 
-A **smart radar system** built on the **ESP32-S3** microcontroller that detects nearby objects using a **Time-of-Flight(ToF)**distance sensor.  
+A **smart radar system** built on the **ESP32-S3** microcontroller that detects nearby objects using a **Time-of-Flight(ToF)** distance sensor.  
 The system combines a **servo motor**, **RGB LED**, **buzzer**, and **push button** — all running concurrently under **FreeRTOS**for real-time performance.
 
 * * *
